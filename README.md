@@ -30,7 +30,7 @@ A fully functional dental clinic management system built using PHP, MySQL, HTML,
 
 ---
 
-🧠 Author
+## **🧠 Author**
 
 **Hamdhan Mohamed**  
 Cybersecurity + Software Engineering Student  
@@ -39,5 +39,5 @@ Cybersecurity + Software Engineering Student
 
 ---
 
-**⚠️ Disclaimer**
+## **⚠️ Disclaimer**
 This project was created for educational purposes. Remove or replace default credentials before deploying to production.
